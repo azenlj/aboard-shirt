@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 footer ul li {
 	margin-right:10px;
 }
-a {
+nav a, footer a {
     text-decoration: none;
     color: #999;
 }
@@ -77,6 +77,6 @@ img {
 }
 
 #about h3 span {
-	font: menu; //normal small-caps 100 12px serif;
+	font: menu;
 	margin-left:20px;
 }
